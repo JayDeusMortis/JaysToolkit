@@ -12,16 +12,16 @@ github_username: 'JayDeusMortis'
 #
 # A brief overview of the settings in this section include:
 store:
-   category    → Whether or not the item's in-game category willbe visible on the list.
-   weight      → Whether or not the item's purchase weight will be visible on the list.
-   karma       → Whether or not the product's karma type override will be visible on the list
-   usage       → Whether or not the list will display an example command on how to purchase the product.
-   quantity    → Whether or not the item's quantity limit will be visible on the list.
-   mod         → Whether or not the list will display the mod that added the product.
-   conflicts   → Whether or not the list will display any trait conflicts the trait has.
-   stats       → Whether or not the list will display any stats the trait has.
-   limit       → Whether or not the list will display when a trait can bypass the trait limit.
-   description → Whether or not the list will display the trait's description.
+  # category    → Whether or not the item's in-game category willbe visible on the list.
+  # weight      → Whether or not the item's purchase weight will be visible on the list.
+   #karma       → Whether or not the product's karma type override will be visible on the list
+  # usage       → Whether or not the list will display an example command on how to purchase the product.
+   #quantity    → Whether or not the item's quantity limit will be visible on the list.
+   #mod         → Whether or not the list will display the mod that added the product.
+   #conflicts   → Whether or not the list will display any trait conflicts the trait has.
+   #stats       → Whether or not the list will display any stats the trait has.
+   #limit       → Whether or not the list will display when a trait can bypass the trait limit.
+   #description → Whether or not the list will display the trait's description.
   traits:
     conflicts: true
     stats: true
